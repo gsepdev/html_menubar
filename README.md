@@ -1,1 +1,3 @@
-# html_menubar
+# Menu Bar 
+Responsive Menu bar and Footer 
+Footer: social icons
